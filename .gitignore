@@ -1,0 +1,13 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Power BI temp files
+*.pbix~*
+
+# Tableau extracts (if any)
+*.hyper
+*.tde
